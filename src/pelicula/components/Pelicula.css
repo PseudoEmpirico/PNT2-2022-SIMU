@@ -8,3 +8,8 @@
   justify-content: center;
   flex-wrap: wrap;
 }
+
+.divisor {
+  border-style: solid;
+  border-color: red;
+}
